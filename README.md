@@ -1,4 +1,7 @@
 # EX-NO-9-RSA-Algorithm
+## Name: VINOLIA ALAIN. R
+## Reg no: 212224240184
+## Date: 25/11/2026
 
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
@@ -109,6 +112,7 @@ int main()
 
 
 ## Output:
+<img width="970" height="642" alt="image" src="https://github.com/user-attachments/assets/781531fe-054f-47b0-8771-5df2fe2078f7" />
 
 
 
